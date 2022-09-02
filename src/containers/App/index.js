@@ -21,18 +21,15 @@ const App = () => {
 
   return (
     <div>
-
       <h2>{giria?.name}</h2>
       <p>{giria?.description}</p>
       <ul>
-        {giria?.examples.map((example) => {
-
+        {giria?.examples.map((example, index) => {
           return (
-            <li>{example}</li>
+            <li key={index}>{example}</li>
           )
         })}
       </ul>
-
       <button onClick={() => getRandomItem(GIRIAS)} type="button">Update</button>
     </div>
   );
