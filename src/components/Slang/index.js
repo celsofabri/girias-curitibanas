@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { StyledSlang } from './styled';
 import { SLANGS } from './constants';
 
 const Slang = () => {
@@ -21,7 +22,7 @@ const Slang = () => {
   }, [])
 
   return (
-    <React.Fragment>
+    <StyledSlang>
       <h2>{slang?.name}</h2>
       <p>{slang?.description}</p>
       <ul>
@@ -32,7 +33,7 @@ const Slang = () => {
         })}
       </ul>
       <button onClick={() => getSlangRandom(SLANGS)} type="button">Update</button>
-    </React.Fragment>
+    </StyledSlang>
   )
 }
 

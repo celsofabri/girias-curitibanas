@@ -1,14 +1,15 @@
 import React from 'react';
 import Sidebar from 'components/Sidebar';
 import Slang from 'components/Slang';
+import { StyledApp } from './styled';
 
 const App = () => {
 
   return (
-    <div>
+    <StyledApp>
       <Sidebar/>
       <Slang/>
-    </div>
+    </StyledApp>
   );
 }
 

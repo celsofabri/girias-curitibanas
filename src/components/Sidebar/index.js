@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { StyledSidebar } from "./styled";
 import { IMAGES } from "./constants";
 
 const Sidebar = () => {
@@ -20,9 +21,9 @@ const Sidebar = () => {
   }, [])
 
   return (
-    <aside>
+    <StyledSidebar>
       <img src={image?.url} alt={image?.name} />
-    </aside>
+    </StyledSidebar>
   )
 }
 
