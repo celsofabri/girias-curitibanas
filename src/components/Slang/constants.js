@@ -54,4 +54,79 @@ export const SLANGS = [
     description: 'O contrário de piá de prédio. O termo malária surgiu nos anos 90 e geralmente fazia referência aos roqueiros que frequentavam o Largo da Ordem. Com o tempo o termo passou a abranger também o significado de “malaco”, ou “maloqueiro”, mas não tem a ver com a pessoa ser pobre, mas sim ser maluco, do tipo que gosta de beber, fazer bagunça e não se importa em se “vestir bem”. O termo ganhou até uma música da banda curitibana Motorocker, banda reconhecida pela própria banda Ac/Dc, como a melhor banda cover do Ac/Dc no mundo. Aliás a música está cheia de referências que só um legitimo curitibano pode entender.',
     examples: ['Vamos pro Largo da Ordem tomar tubão junto com a malária?']
   },
+  {
+    name: 'Tigre/Tigrada',
+    description: 'Quase o mesmo que malária, mas mais perigoso; maloqueiro.',
+    examples: ['Piá nem vamos pra aqueles lados tem uma tigrada lá, tá meio sinistro!']
+  },
+  {
+    name: 'Pescoço/Pescoceada',
+    description: 'Pescoço é uma pessoa curiosa e/ou intrometida.',
+    examples: ['Piá, como você é pescoço!!!', 'Vamos dar uma pescoceada lá no Parque Tanguá?']
+  },
+  {
+    name: 'Tubão',
+    description: 'Pra quem ouviu a música e escutou a palavra tubão e coquinho, informamos que tubão é uma bebida típica da Malária curitibana. Trata-se de uma garrafa pet, onde é adicionado ao refrigerante algum tipo de bebida alcoólica, como vodka, pinga, conhaque etc. Quanto mais álcool mais tubão!',
+    examples: ['Piazada do céu, no Largo da Ordem só tem malária tomando tubão!']
+  },
+  {
+    name: 'Djanho',
+    description: 'Alguma coisa muito foda e ruim; diabo! Se diz quando está puto com alguma coisa.',
+    examples: ['Piá do djanho', 'Frio do djanho', 'Calor do djanho', 'Trânsito do djanho!']
+  },
+  {
+    name: 'No galeto',
+    description: 'Realizar alguma coisa em alta velocidade! Quer dizer: muito rápido.',
+    examples: ['Cara o ligeirinho passou tão no galeto que até me assustei.']
+  },
+  {
+    name: 'Tô moído',
+    description: 'Quando você está muito cansado! Acabado.',
+    examples: ['Cara, vou embora descansar, tô moído hoje!']
+  },
+  {
+    name: 'Expresso/Vermelhão/Biarticulado',
+    description: 'Expresso é um termo utilizado pelos curitibanos mais antigos e refere-se ao ônibus que ganhou pista exclusiva, dando a Curitiba destaque mundial pelo sistema de transporte público. O termo vermelhão também é utilizado por curitibanos mais velhos e também refere-se ao ônibus expresso, que é vermelho. Mais tarde o ônibus expresso ganhou carros mais modernos biarticulados e daí a origem do termo Biarticulado.',
+    examples: ['Vamos pro centro com o Expresso/Vermelhão/Biarticulado, ou com o ligeirinho?']
+  },
+  {
+    name: 'Ligeirinho',
+    description: 'Se refere ao ônibus de linha direta implantado no sistema de transporte público de Curitiba, em 1991. O ônibus se diferenciava na época por não fazer paradas frequentes e por este motivo ganhou o apelido de “ligeirinho”.',
+    examples: ['Vamos pegar o ligeirinho porque tenho que chegar rápido lá do outro lado da cidade.']
+  },
+  {
+    name: 'Canaleta',
+    description: 'Se refere a via exclusiva dedicada aos ônibus expressos.',
+    examples: ['Piá vamos lá andar de Skate/Bike na canaleta do Expresso? – Não rola cara, é proibido!']
+  },
+  {
+    name: 'Tubo',
+    description: 'Local de parada dos ônibus ligeirinhos e expressos. Espécie de ponto de ônibus curitibano.',
+    examples: ['Te espero no primeiro tubo depois do terminal do Santa Cândida.']
+  },
+  {
+    name: 'Mimosa',
+    description: 'A fruta chamada em outros lugares de Bergamota, ou poncã. Aquela bem grande sabe?',
+    examples: ['Piá! Comprei uma Mimosa ontem na feirinha e tava uma delicia! Tesão piá!']
+  },
+  {
+    name: 'Migué/Dolangue',
+    description: 'Dizemos migué, ou dolangue pra mentira. O famoso Fake-News que estamos acompanhando muito atualmente.',
+    examples: ['Piá do céu, sabe o meu vizinho? É o maior miguezeiro/dolangueiro! Quase tudo que o cara fala é migué/dolangue!']
+  },
+  {
+    name: 'Arregado',
+    description: 'Dizemos quando a pessoa está com sorte. Também pode se referir a um grande volume.',
+    examples: ['Piá, tô arregado, conheci uma gata ontem, vou sair com ela de novo; Que porção de batata arregada neste boteco.']
+  },
+  {
+    name: 'Penal',
+    description: 'Estojo escolar utilizado pra guardar lápis, borrachas, apontadores etc.',
+    examples: ['Comprei um penal novo porque roubaram meu antigo.']
+  },
+  {
+    name: 'Seu loque!',
+    description: 'Usado em diversas situações, tem o mesmo sentido de Mané.',
+    examples: ['Ôhhh seu loque, presta atenção!']
+  }
 ]
