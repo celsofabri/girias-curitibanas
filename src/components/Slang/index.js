@@ -1,5 +1,14 @@
 import React, { useState, useEffect } from 'react';
-import { StyledSlang, StyledName, StyledDescription, StyledExamples } from './styled';
+import { 
+  StyledSlang, 
+  StyledName, 
+  StyledDescription, 
+  StyledSubtitle,
+  StyledExamples, 
+  StyledExamplesList,
+  StyledExamplesItem,
+  StyledButton
+} from './styled';
 import { SLANGS } from './constants';
 
 const Slang = () => {
@@ -25,19 +34,21 @@ const Slang = () => {
     <StyledSlang>
       <StyledName>{slang?.name}</StyledName>
       <StyledDescription>
+        <StyledSubtitle>Descrição:</StyledSubtitle>
         <p>{slang?.description}</p>
 
         <StyledExamples>
-          <ul>
+          <StyledSubtitle>{slang?.examples.length > 1 ? 'Exemplos:' : 'Exemplo:'}</StyledSubtitle>
+          <StyledExamplesList>
             {slang?.examples.map((example, index) => {
               return (
-                <li key={index}>{example}</li>
+                <StyledExamplesItem key={index}>{example}</StyledExamplesItem>
               )
             })}
-          </ul>
+          </StyledExamplesList>
         </StyledExamples>
       </StyledDescription>
-      <button onClick={() => getSlangRandom(SLANGS)} type="button">Atualizar</button>
+      <StyledButton onClick={() => getSlangRandom(SLANGS)} type="button">Atualizar</StyledButton>
     </StyledSlang>
   )
 }
