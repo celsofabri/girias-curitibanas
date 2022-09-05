@@ -1,5 +1,8 @@
 import React, { useState, useEffect } from "react";
-import { StyledSidebar } from "./styled";
+import { 
+  StyledSidebar,
+  StyledTitle 
+} from "./styled";
 import { IMAGES } from "./constants";
 
 const Sidebar = () => {
@@ -23,6 +26,7 @@ const Sidebar = () => {
   return (
     <StyledSidebar>
       <img src={image?.url} alt={image?.name} />
+      <StyledTitle>{image?.name}</StyledTitle>
     </StyledSidebar>
   )
 }
