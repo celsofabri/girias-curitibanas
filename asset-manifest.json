@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.4a5092fd.css",
-    "main.js": "./static/js/main.61ef7738.js",
+    "main.js": "./static/js/main.8d361b17.js",
     "static/js/787.e5b4b44d.chunk.js": "./static/js/787.e5b4b44d.chunk.js",
     "static/media/jardimbotanico.jpg": "./static/media/jardimbotanico.e70cf60d3ba82e00090a.jpg",
     "static/media/operadearame.png": "./static/media/operadearame.ca78e752f6ad5c54c2b3.png",
@@ -66,11 +66,11 @@
     "static/media/open-sans-latin-400italic.woff2": "./static/media/open-sans-latin-400italic.bb915319f59c02c348a6.woff2",
     "index.html": "./index.html",
     "main.4a5092fd.css.map": "./static/css/main.4a5092fd.css.map",
-    "main.61ef7738.js.map": "./static/js/main.61ef7738.js.map",
+    "main.8d361b17.js.map": "./static/js/main.8d361b17.js.map",
     "787.e5b4b44d.chunk.js.map": "./static/js/787.e5b4b44d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a5092fd.css",
-    "static/js/main.61ef7738.js"
+    "static/js/main.8d361b17.js"
   ]
 }
