@@ -11,7 +11,7 @@ export const SLANGS = [
   },
   {
     name: 'Piá',
-    description: 'Teoricamente Piá é como chamamos os meninos/garotos pequenos. Entretanto, também é como chamamos os jovens, normalmente os mais íntimos. Do “piá” surgem diversas variações como piazinho, piazão, piazote, que não necessariamente se referem ao aumentativo e diminutivo. O plural de piá é piazada, amplamente falado em Curitiba.',
+    description: 'Teoricamente Piá é como chamamos os (meninos / garotos) pequenos. Entretanto, também é como chamamos os jovens, normalmente os mais íntimos. Do “piá” surgem diversas variações como piazinho, piazão, piazote, que não necessariamente se referem ao aumentativo e diminutivo. O plural de piá é piazada, amplamente falado em Curitiba.',
     examples: ['Aquele piá tava com os amigos dele no jogo do Athletico PR', 'Fala piá, tudo certo pro churrasco?', 'Ôh piazada, qual é a boa pra hoje?']
   },
   {
@@ -51,16 +51,16 @@ export const SLANGS = [
   },
   {
     name: 'Malária',
-    description: 'O contrário de piá de prédio. O termo malária surgiu nos anos 90 e geralmente fazia referência aos roqueiros que frequentavam o Largo da Ordem. Com o tempo o termo passou a abranger também o significado de “malaco”, ou “maloqueiro”, mas não tem a ver com a pessoa ser pobre, mas sim ser maluco, do tipo que gosta de beber, fazer bagunça e não se importa em se “vestir bem”. O termo ganhou até uma música da banda curitibana Motorocker, banda reconhecida pela própria banda Ac/Dc, como a melhor banda cover do Ac/Dc no mundo. Aliás a música está cheia de referências que só um legitimo curitibano pode entender.',
+    description: 'O contrário de piá de prédio. O termo malária surgiu nos anos 90 e geralmente fazia referência aos roqueiros que frequentavam o Largo da Ordem. Com o tempo o termo passou a abranger também o significado de “malaco”, ou “maloqueiro”, mas não tem a ver com a pessoa ser pobre, mas sim ser maluco, do tipo que gosta de beber, fazer bagunça e não se importa em se “vestir bem”. O termo ganhou até uma música da banda curitibana Motorocker, banda reconhecida pela própria banda AC/DC, como a melhor banda cover do AC/DC no mundo. Aliás a música está cheia de referências que só um legitimo curitibano pode entender.',
     examples: ['Vamos pro Largo da Ordem tomar tubão junto com a malária?']
   },
   {
-    name: 'Tigre/Tigrada',
+    name: 'Tigre / Tigrada',
     description: 'Quase o mesmo que malária, mas mais perigoso; maloqueiro.',
     examples: ['Piá nem vamos pra aqueles lados tem uma tigrada lá, tá meio sinistro!']
   },
   {
-    name: 'Pescoço/Pescoceada',
+    name: 'Pescoço / Pescoceada',
     description: 'Pescoço é uma pessoa curiosa e/ou intrometida.',
     examples: ['Piá, como você é pescoço!!!', 'Vamos dar uma pescoceada lá no Parque Tanguá?']
   },
@@ -85,9 +85,9 @@ export const SLANGS = [
     examples: ['Cara, vou embora descansar, tô moído hoje!']
   },
   {
-    name: 'Expresso/Vermelhão/Biarticulado',
+    name: 'Expresso / Vermelhão / Biarticulado',
     description: 'Expresso é um termo utilizado pelos curitibanos mais antigos e refere-se ao ônibus que ganhou pista exclusiva, dando a Curitiba destaque mundial pelo sistema de transporte público. O termo vermelhão também é utilizado por curitibanos mais velhos e também refere-se ao ônibus expresso, que é vermelho. Mais tarde o ônibus expresso ganhou carros mais modernos biarticulados e daí a origem do termo Biarticulado.',
-    examples: ['Vamos pro centro com o Expresso/Vermelhão/Biarticulado, ou com o ligeirinho?']
+    examples: ['Vamos pro centro com o (Expresso / Vermelhão / Biarticulado), ou com o ligeirinho?']
   },
   {
     name: 'Ligeirinho',
@@ -97,7 +97,7 @@ export const SLANGS = [
   {
     name: 'Canaleta',
     description: 'Se refere a via exclusiva dedicada aos ônibus expressos.',
-    examples: ['Piá vamos lá andar de Skate/Bike na canaleta do Expresso? – Não rola cara, é proibido!']
+    examples: ['Piá vamos lá andar de (Skate / Bike) na canaleta do Expresso? – Não rola cara, é proibido!']
   },
   {
     name: 'Tubo',
@@ -110,9 +110,9 @@ export const SLANGS = [
     examples: ['Piá! Comprei uma Mimosa ontem na feirinha e tava uma delicia! Tesão piá!']
   },
   {
-    name: 'Migué/Dolangue',
+    name: 'Migué / Dolangue',
     description: 'Dizemos migué, ou dolangue pra mentira. O famoso Fake-News que estamos acompanhando muito atualmente.',
-    examples: ['Piá do céu, sabe o meu vizinho? É o maior miguezeiro/dolangueiro! Quase tudo que o cara fala é migué/dolangue!']
+    examples: ['Piá do céu, sabe o meu vizinho? É o maior (miguezeiro / dolangueiro)! Quase tudo que o cara fala é (migué / dolangue)!']
   },
   {
     name: 'Arregado',
