@@ -7,6 +7,7 @@ import {
   StyledExamples, 
   StyledExamplesList,
   StyledExamplesItem,
+  StyledBottomBar,
   StyledButton
 } from './styled';
 import { SLANGS } from './constants';
@@ -48,7 +49,10 @@ const Slang = () => {
           </StyledExamplesList>
         </StyledExamples>
       </StyledDescription>
-      <StyledButton onClick={() => getSlangRandom(SLANGS)} type="button">Atualizar</StyledButton>
+      <StyledBottomBar>
+        <StyledButton onClick={() => getSlangRandom(SLANGS)} type="button">Atualizar</StyledButton>
+      </StyledBottomBar>
+      
     </StyledSlang>
   )
 }

@@ -18,8 +18,9 @@ export const StyledSidebar = styled.aside`
 export const StyledTitle = styled.h3`
   position: absolute;
   right: 16px;
-  bottom: 0;
+  bottom: 16px;
   padding: 8px;
+  margin: 0;
   font-family: ${fonts.primary};
   color: #fff;
   background-color: rgba(0, 0, 0, .5);
