@@ -50,7 +50,7 @@ const Slang = () => {
         </StyledExamples>
       </StyledDescription>
       <StyledBottomBar>
-        <StyledButton onClick={() => getSlangRandom(SLANGS)} type="button">Atualizar</StyledButton>
+        <StyledButton id="btn-update-slang" onClick={() => getSlangRandom(SLANGS)} type="button">Atualizar</StyledButton>
       </StyledBottomBar>
       
     </StyledSlang>
