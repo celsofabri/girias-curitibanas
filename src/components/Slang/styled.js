@@ -9,11 +9,16 @@ export const StyledSlang = styled.article`
   width: 70%;
   height: 100%;
   padding: 32px;
+  overflow: auto;
 `;
 
 export const StyledName = styled.h2`
   font-family: ${fonts.primary};
   font-size: 52px;
+
+  @media screen and (max-width: 480px) {
+    font-size: 24px;
+  }
 `;
 
 export const StyledDescription = styled.div`
