@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3ce23c5e.css",
+    "main.js": "./static/js/main.1e8c242e.js",
+    "static/js/787.e5b4b44d.chunk.js": "./static/js/787.e5b4b44d.chunk.js",
+    "static/media/jardimbotanico.jpg": "./static/media/jardimbotanico.e70cf60d3ba82e00090a.jpg",
+    "static/media/operadearame.png": "./static/media/operadearame.ca78e752f6ad5c54c2b3.png",
+    "static/media/barigui.jpg": "./static/media/barigui.a6ba27cc3aa308f5267f.jpg",
+    "static/media/bondinho.jpg": "./static/media/bondinho.f178a5da2cd2a4b5787d.jpg",
+    "static/media/mon.jpg": "./static/media/mon.ecc575ac6a28c1e8f8b8.jpg",
+    "index.html": "./index.html",
+    "main.3ce23c5e.css.map": "./static/css/main.3ce23c5e.css.map",
+    "main.1e8c242e.js.map": "./static/js/main.1e8c242e.js.map",
+    "787.e5b4b44d.chunk.js.map": "./static/js/787.e5b4b44d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce23c5e.css",
+    "static/js/main.1e8c242e.js"
+  ]
+}
