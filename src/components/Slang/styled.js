@@ -4,10 +4,10 @@ import { fonts } from "assets/global/tokens";
 export const StyledSlang = styled.article`
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: flex-start;
   width: 70%;
-  height: 100%;
+  height: 100vh;
   padding: 32px;
   overflow: auto;
 `;
@@ -45,7 +45,10 @@ export const StyledExamplesItem = styled.li`
   margin: 8px;
   color: #555;
 
-  &:before,
+  &:before {
+    content: '" — '
+  }
+
   &:after {
     content: '"'
   }
