@@ -174,4 +174,9 @@ export const SLANGS = [
     description: 'Por quê não existe "biscoito".',
     examples: ['Fui no mercado comprar uns pacotes de bolacha pra comer.']
   },
+  {
+    name: 'Apura',
+    description: 'Quando você quer acelerar alguém para fazer algo ou por estar atrasado.',
+    examples: ['Apura logo piá, se não vamos chegar atrasado!']
+  },
 ]
