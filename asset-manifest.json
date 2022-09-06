@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.4a5092fd.css",
-    "main.js": "./static/js/main.36f8366d.js",
+    "main.js": "./static/js/main.3f9096c3.js",
     "static/js/787.e5b4b44d.chunk.js": "./static/js/787.e5b4b44d.chunk.js",
     "static/media/jardimbotanico.jpg": "./static/media/jardimbotanico.e70cf60d3ba82e00090a.jpg",
     "static/media/operadearame.png": "./static/media/operadearame.ca78e752f6ad5c54c2b3.png",
+    "static/media/bosquedoalemao.jpg": "./static/media/bosquedoalemao.aae1ba09d57a3980d8ad.jpg",
     "static/media/barigui.jpg": "./static/media/barigui.a6ba27cc3aa308f5267f.jpg",
     "static/media/bondinho.jpg": "./static/media/bondinho.f178a5da2cd2a4b5787d.jpg",
     "static/media/mon.jpg": "./static/media/mon.ecc575ac6a28c1e8f8b8.jpg",
+    "static/media/tangua.jpg": "./static/media/tangua.426719dd219983f7de66.jpg",
     "static/media/montserrat-latin-700italic.woff": "./static/media/montserrat-latin-700italic.6779372f04095051c62e.woff",
     "static/media/montserrat-latin-800italic.woff": "./static/media/montserrat-latin-800italic.fe82abb0bcede51bf724.woff",
     "static/media/montserrat-latin-600italic.woff": "./static/media/montserrat-latin-600italic.c4fcfeeb057724724097.woff",
@@ -66,11 +68,11 @@
     "static/media/open-sans-latin-400italic.woff2": "./static/media/open-sans-latin-400italic.bb915319f59c02c348a6.woff2",
     "index.html": "./index.html",
     "main.4a5092fd.css.map": "./static/css/main.4a5092fd.css.map",
-    "main.36f8366d.js.map": "./static/js/main.36f8366d.js.map",
+    "main.3f9096c3.js.map": "./static/js/main.3f9096c3.js.map",
     "787.e5b4b44d.chunk.js.map": "./static/js/787.e5b4b44d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a5092fd.css",
-    "static/js/main.36f8366d.js"
+    "static/js/main.3f9096c3.js"
   ]
 }
