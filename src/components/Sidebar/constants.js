@@ -3,6 +3,8 @@ import imgBondinho from 'assets/images/bondinho.jpg';
 import imgJardimBotanico from 'assets/images/jardimbotanico.jpg';
 import imgMon from 'assets/images/mon.jpg';
 import imgOperaDeArame from 'assets/images/operadearame.png';
+import imgTangua from 'assets/images/tangua.jpg';
+import imgBosqueDoAlemao from 'assets/images/bosquedoalemao.jpg';
 
 export const IMAGES = [
   {
@@ -24,5 +26,13 @@ export const IMAGES = [
   {
     name: 'Ópera de Arame',
     url: `${imgOperaDeArame}`
-  }
+  },
+  {
+    name: 'Parque Tanguá',
+    url: `${imgTangua}`
+  },
+  {
+    name: 'Bosque do Alemão',
+    url: `${imgBosqueDoAlemao}`
+  },
 ]
