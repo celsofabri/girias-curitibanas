@@ -128,5 +128,50 @@ export const SLANGS = [
     name: 'Seu loque!',
     description: 'Usado em diversas situações, tem o mesmo sentido de Mané.',
     examples: ['Ôhhh seu loque, presta atenção!']
-  }
+  },
+  {
+    name: 'Cozido',
+    description: 'Pessoa bêbada',
+    examples: ['Pia do céu, ontem sai, bebi todas e fiquei cozido!']
+  },
+  {
+    name: 'Bocó',
+    description: 'Uma pessoa boba, tola.',
+    examples: ['Aquele piá é o maior bocó!']
+  },
+  {
+    name: 'Jacu',
+    description: 'Pessoa que se comporta como um caipira, pessoa do mato, que é muito tímida.',
+    examples: ['Pare de ser jacu piá! Vamos lá no churrasco!']
+  },
+  {
+    name: 'Lazarento',
+    description: 'Xingamento (Pode ser ofensivo ou não, depende da entonação e contexto).',
+    examples: ['Mas é um lazarento mesmo! Fez o churras e nem me chamou.', 'Ôh Lazarento, você comprou a carteira que não sabe dar pisca não?!']
+  },
+  {
+    name: 'Chineque',
+    description: 'Pão doce de origem alemão que tem farofinha de cuque em cima.',
+    examples: ['Que delícia aquele chineque da padaria!']
+  },
+  {
+    name: 'Pila',
+    description: 'A mesma coisa que dinheiro.',
+    examples: ['Bora comprar um litrão? Tá só 10 pila.']
+  },
+  {
+    name: 'Intéra',
+    description: 'Ato de juntar vários "pila" de amigos para comprar algo.',
+    examples: ['Ô piazada, bora fazer uma intéra pra comprar mais bebida pro churrasco.']
+  },
+  {
+    name: 'Raia',
+    description: 'Pipa, papagaio, pandorga',
+    examples: ['O vento está bom pra soltar raia hoje.']
+  },
+  {
+    name: 'Bolacha',
+    description: 'Por quê não existe "biscoito".',
+    examples: ['Fui no mercado comprar uns pacotes de bolacha pra comer.']
+  },
 ]
